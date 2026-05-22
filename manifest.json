@@ -1,0 +1,16 @@
+{
+  "name": "Signal APK",
+  "short_name": "SignalAPK",
+  "start_url": "/signalapk/",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
